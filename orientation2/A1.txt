@@ -1,0 +1,3 @@
+Assignment 1
+a. An arrival event needs to generate a new arrival event, so it can schedule the next arrival event and so it can be added to the arrival event list.
+b. The event b1 should be generated at the start of the service.
