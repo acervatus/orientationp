@@ -1,0 +1,3 @@
+An everyday situation a simulation could analyze would be a travelling and emissions simulator, that would take different types of transportation, the time they would take and the emissions that come from them, and then determine the optimal transportation by finding the best emissions to time ratio.
+The amount of different methods of transportation, routes and the time doing it in real life would take, makes the simulation better than experimenting in real life.
+The sustainability aspect would be by reducing emissions.
