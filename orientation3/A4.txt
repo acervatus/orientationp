@@ -1,0 +1,3 @@
+Examples of distributions:
+Geometric distribution, which means the probability on the amount of failures before a success in a set of trials.
+Gamma distribution, which means taking in any number and type of values and putting it into a gamma distribution function, which then gives probabilities of any range of possible values.
