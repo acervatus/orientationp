@@ -1,0 +1,1 @@
+Singleton object cant be created outside the singleton class with a new operation, because a singleton is made so it is restricted to a single instance.

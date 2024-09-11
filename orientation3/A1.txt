@@ -1,0 +1,4 @@
+First make an array of integers to which is added the age of each student ordered by lowest first.
+Make an array of integers the size being the highest age from the first array, with each integer starting at 0;
+Make a for loop that iterates for 1000 times, where: a random number is generated with the lowest being 0 and largest being the size of the first array - 1, take the number in the first array using the random number as an index, use the taken number as an index to add a 1 to the corresponding integer in the second array.
+Make another for loop that iterates for as many times as is the size of the second array, to draw all ages and percentages, where: Sum all integers in the second array, get each integer in the second array that is not 0, then also divide it with the sum, then get the age by getting the current index.
