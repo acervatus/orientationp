@@ -1,0 +1,9 @@
+for target in list
+	if need new target
+		add target
+		set target variables
+	record target measures
+	for target in order
+		if target fulfill conditions
+			service point add target
+	record service point measures

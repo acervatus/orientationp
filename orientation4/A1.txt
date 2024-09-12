@@ -1,0 +1,7 @@
+For the example case health center, the performance measures could be:
+Time spent, which would tell how long a visitor spent in the health center
+Idle time, telling how much time was spent waiting
+Average time, telling how long an average visitor would spend
+Visitor count, telling the total count of visitors that have entered
+Visitor completion count, telling how many have completed the simulation
+Visitors in any time, telling how many visitors there is or could be in any given time

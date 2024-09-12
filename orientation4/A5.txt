@@ -1,0 +1,6 @@
+a
+A-phase coding means the simulation executive where the next event is determined and where clock is set to the time of the next event.
+b
+Coding B-events means that it is executed when the clock is corresponding to the time set in the B-event.
+c
+C-events means that every one of them is attempted, then executed if the conditions are met.

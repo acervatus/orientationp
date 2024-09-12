@@ -1,0 +1,6 @@
+The performance measures would be maintained in the health center example in:
+Reception point for the visitor counting
+Exit point for the visitor completion counting
+Visitor for the time spent and time spent waiting
+Exit point for the average time spent
+Health center for the amount of visitors at any given time
